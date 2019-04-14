@@ -1,4 +1,4 @@
-This is a snippet of Ipython code showing how to display multiple Sympy (or anything capable of latex conversion) equations in single line. It turned out to be way more difficult to achieve than I expected, so I figured it's worth sharing.
+This repository is essentially a snippet of IPython code showing how to display multiple Sympy (or anything capable of latex conversion) equations in single line. It turned out to be way more difficult to achieve than I expected, so I figured it's worth sharing.
 
 Example output in EIN/console mode:
 
